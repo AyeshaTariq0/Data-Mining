@@ -85,14 +85,4 @@ Data mining is an essential tool in today’s data-driven world. By leveraging p
 
 ---
 
-## License
-This repository is licensed under the MIT License. Feel free to use, modify, and distribute the content.
-
-## Contributions
-Contributions are welcome! If you have ideas or improvements, feel free to open a pull request or submit an issue.
-
----
-
-### Contact
-For further questions or feedback, please contact [Your Name/Organization] at [Your Email/Website].
-
+As technology advances and the amount of data continues to grow, the importance of data mining will only increase, making it an indispensable skill for businesses, researchers, and data scientists alike.
